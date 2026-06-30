@@ -1,0 +1,39 @@
+\contentsline {section}{Contents}{iii}{Doc-Start}%
+\contentsline {section}{List of Figures}{iv}{Doc-Start}%
+\contentsline {section}{List of Tables}{v}{Doc-Start}%
+\contentsline {section}{\numberline {1}Abstract}{1}{section.1}%
+\contentsline {section}{\numberline {2}Introduction}{2}{section.2}%
+\contentsline {section}{\numberline {3}Literature Review}{3}{section.3}%
+\contentsline {section}{\numberline {4}Problem Statement}{4}{section.4}%
+\contentsline {section}{\numberline {5}Objectives}{5}{section.5}%
+\contentsline {section}{\numberline {6}System Overview}{6}{section.6}%
+\contentsline {section}{\numberline {7}Existing System}{7}{section.7}%
+\contentsline {section}{\numberline {8}Proposed System}{8}{section.8}%
+\contentsline {section}{\numberline {9}System Architecture}{9}{section.9}%
+\contentsline {section}{\numberline {10}Modules Description}{10}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Authentication \& Security Module}{10}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Room Management Module}{10}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Reservation / Booking Module}{10}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Guest Management Module}{10}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Billing and Payments Module}{10}{subsection.10.5}%
+\contentsline {section}{\numberline {11}Database Design (ER Diagram Explanation)}{11}{section.11}%
+\contentsline {section}{\numberline {12}Flowcharts}{12}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Login Flow}{12}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Booking Process Flow}{13}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}Admin Management Flow}{14}{subsection.12.3}%
+\contentsline {section}{\numberline {13}UML Diagrams}{15}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Use Case Diagram}{15}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Class Diagram}{16}{subsection.13.2}%
+\contentsline {section}{\numberline {14}Technology Stack}{17}{section.14}%
+\contentsline {section}{\numberline {15}Implementation Details}{18}{section.15}%
+\contentsline {section}{\numberline {16}User Interface Description}{19}{section.16}%
+\contentsline {section}{\numberline {17}Testing (Unit, Integration, System Testing)}{20}{section.17}%
+\contentsline {subsection}{\numberline {17.1}Unit Testing}{20}{subsection.17.1}%
+\contentsline {subsection}{\numberline {17.2}Integration Testing}{20}{subsection.17.2}%
+\contentsline {subsection}{\numberline {17.3}System and User Acceptance Testing (UAT)}{20}{subsection.17.3}%
+\contentsline {section}{\numberline {18}Results and Discussion}{21}{section.18}%
+\contentsline {section}{\numberline {19}Advantages}{22}{section.19}%
+\contentsline {section}{\numberline {20}Limitations}{23}{section.20}%
+\contentsline {section}{\numberline {21}Future Scope}{24}{section.21}%
+\contentsline {section}{\numberline {22}Conclusion}{25}{section.22}%
+\contentsline {section}{References}{26}{section.22}%

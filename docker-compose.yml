@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  ml_api:
+    build: ./ML_API
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
+    environment:
+      - FLASK_ENV=production
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "8080:80"
+    restart: unless-stopped
